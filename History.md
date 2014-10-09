@@ -1,4 +1,23 @@
 
+0.8.17a / 2014-10-09
+==================
+
+ * Fix translations in profile and settings-profile
+ * Fix summary html rendering
+ * Complete catalan translation
+ * Add deleting comments as a staff member
+ * Fix side-comments avatar usage. Closes #447
+ * Fix sorting by 'Closing soon'. Closes #442
+ * Send notification on published law to users who have subscribed to the law's tag
+ * Show only 'Notify on reply argument' notification. Toggle on citizen's preferences
+ * Add notifying when someone replies to an argument
+ * Update sample config with notifier requirements
+ * Merge branch 'development' into notifier-integration
+ * Enable settings-notifications
+ * Make notifier usage dependent on configuration settings
+ * Fix usage of notifier-client
+ * Make signup email validations optionally rely on notifier-client
+
 0.8.17 / 2014-10-08
 ==================
 
