@@ -1,9 +1,13 @@
 
+0.8.17b / 2014-10-09
+==================
+
+ * Remove filters from side-bar and force 'oldest-first' sort
+
 0.8.17a / 2014-10-09
 ==================
 
  * Fix translations in profile and settings-profile
- * Fix summary html rendering
  * Complete catalan translation
  * Add deleting comments as a staff member
  * Fix side-comments avatar usage. Closes #447
