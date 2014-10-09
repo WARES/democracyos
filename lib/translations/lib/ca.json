@@ -217,8 +217,8 @@
   "That argument is not yours!": "Aquest argument no és teu!",
   "There are no laws to display": "No hi ha lleis per mostrar",
 
-  "proposal-article.article.alert.text": "Aquesta és la versió de prova de DemocracyOS.",
-  "proposal-article.article.alert.learn-more": "Més informació",
+  "proposal-article.article.alert.text": "Atenció! Avanç de participar, ",
+  "proposal-article.article.alert.learn-more": "llegir normes d'ús",
 
   "Remove argument" : "Traieu argument",
   "Spam" : "Informar d'abús",
@@ -259,7 +259,7 @@
   "admin-laws-form.button.add-clause": "Afegir clàusula",
   "admin-laws-form.message.add-clause-forbidden": "La llei ha de ser guardada per poder afegir clàusules",
   "admin-laws-form.button.add-link": "afegir enllaç",
-  "admin-laws-form.message.add-link-forbidden": "Law must be saved before adding links",
+  "admin-laws-form.message.add-link-forbidden": "La llei ha de guardar-se abans d'afegir articles",
   "admin-laws-form.button.submit": "Guardar",
 
   "admin-laws-form.message.public-status": "Aquesta llei es fa pública",
@@ -318,7 +318,7 @@
   "markdown.url-autolinking.text.3": "For example, to create a link to http://www.example.com, with a link text that says, Visit Example.com!, you'd write this:",
   "markdown.url-autolinking.example": "Entra a http://example.com",
   "markdown.url-autolinking.example2": "[Entra a Example.com!](http://www.example.com)",
-  "markdown.linebreaks.title": "linebreaks",
+  "markdown.linebreaks.title": "Salts de línia",
   "markdown.linebreaks.text": "Més de 2 salts de línia s'aconsegueixen comprimit Per exemple:",
   "markdown.linebreaks.example.1": "Aquí hi ha una línia per a nosaltres començar amb.\n",
   "markdown.linebreaks.example.2": "Aquesta és la nostra segona línia.\n\n",
