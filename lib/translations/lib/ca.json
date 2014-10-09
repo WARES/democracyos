@@ -7,12 +7,18 @@
   "DemocracyOS": "Jornades de codi ètic",
   "header.logo": "Jornades de codi ètic",
   "header.signin": "Entrada",
+  "header.my_profile": "Meu perfil",
   "Login to": "Entrada a",
   "header.signup": "Registrar-se",
   "Signup now": "Registra'm  ara",
   "header.logout": "Tancar la sessió",
   "header.settings": "El meu compte",
   "header.feedback": "Suggeriments",
+
+  "activity.stream.title": "informe d'Activitat",
+
+  "profile.about": "Sobre",
+  "profile.tags": "Etiquetes subscrites",
 
   "Incorrect password": "Contrasenya Incorrecta",
   "Incorrect username": "Nom d'usuari incorrecte",
@@ -45,6 +51,12 @@
   "Current password is invalid": "La contrasenya actual no és vàlida",
   "Please wait": "Si us plau espera",
   "More information": "Més informació",
+
+  "settings.notifications.title": "Configuració de Notificacions",
+  "settings.notificatinos.get-email-when": "Obtenir un email quan",
+  "settings.notifications.new-topic": "Un nou tema es publica",
+  "settings.notificatoins.someone-replies-your-comments": "Algú respon a un dels seus comentaris",
+  "settings.notifications.someone-mentions-in-their-comment": "Algú li esmenta en un dels seus comentaris",
 
   "validators.required": "Cal",
   "validators.checked": "Camp obligatori comprovat",
@@ -173,6 +185,7 @@
   "Nay": "Negatiu",
   "Abstain": "Abstenció",
   "Yes": "Si",
+  "No": "No",
   "Cancel": "Cancel.la",
   "Edit": "Editar",
   "Delegate": "Delegar",
@@ -235,7 +248,7 @@
   "admin-laws-form.label.mediaTitle": "Títol de mitjans",
   "admin-laws-form.label.author": "Autor",
   "admin-laws-form.label.source": "Font",
-  "admin-laws-form.placeholder.source": "http://laws-source.org/official-url/",
+  "admin-laws-form.placeholder.source": "http://topic-source.org/official-url/",
   "admin-laws-form.label.tag": "Etiqueta",
   "admin-laws-form.label.summary": "Sumari",
   "admin-laws-form.label.closingAt": "Tancament a",
