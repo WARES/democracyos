@@ -18,7 +18,9 @@
   "activity.stream.title": "informe d'Activitat",
 
   "profile.about": "Sobre",
-  "profile.tags": "Etiquetes subscrites",
+  "profile.about.placeholder": "Alguna cosa obre tu",
+  "profile.tags": "Etiquetes",
+  "profile.tags.placeholder": "Comença a escriure un nom d'etiqueta...",
 
   "Incorrect password": "Contrasenya Incorrecta",
   "Incorrect username": "Nom d'usuari incorrecte",
