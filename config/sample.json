@@ -68,6 +68,6 @@
   "notifications": {
     "host": "localhost",
     "port": 9001,
-    "token": 1234
+    "token": null
   }
 }
