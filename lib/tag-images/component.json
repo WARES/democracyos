@@ -9,7 +9,8 @@
     "images/parks.svg",
     "images/police.svg",
     "images/people.svg",
-    "images/transportation.svg"
+    "images/transportation.svg",
+    "images/codietic.svg"
   ],
   "scripts": [
     "index.js"
