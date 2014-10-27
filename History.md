@@ -1,4 +1,11 @@
 
+0.8.18c / 2014-10-22
+==================
+
+ * Add D-CENT logo to sidebar footer
+ * Remove unneeded code
+ * Add sidebar footer and DemocracyOS logo
+
 0.8.18b / 2014-10-10
 ==================
 
