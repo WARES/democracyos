@@ -1,0 +1,73 @@
+{
+  "protocol": "http",
+  "host": "http://terrassaencomu.herokuapp.com",
+  "privatePort": 3000,
+  "publicPort": 3000,
+  "mongoUrl": "mongodb://enares:7d6k2lT1Y87tw7XAbySqC3qr7rYD0eiUiNkM7kOIpeOMNrt2jmX1UM7DMSEWhlwpzOXfgSJrc0J1ckvcBHgMRg@lamppost.2.mongolayer.com:10403,lamppost.3.mongolayer.com:10360/app33833909",
+  "client": [
+    "protocol":"http",
+    "host":"http://terrassaencomu.herokuapp.com",
+    "publicPort": 80,
+    "env":"production",
+    "logo",
+    "favicon",
+    "organization name": "Guanyem Terrassa",
+    "organization url":"http://guanyemterrassa.net",
+    "learn more url",
+    "google analytics tracking id",
+    "comments per page": 15,
+    "faq",
+    "tos",
+    "pp",
+    "glossary"
+  ],
+  "auth": {
+    "basic": {
+      "username": "",
+      "password": ""
+    }
+  },
+  "mailer": {
+    "service": "Gmail",
+    "auth": {
+      "user": "example@gmail.com",
+      "pass": "yourExamplePassword123"
+    }
+  },
+  "mandrillMailer": {
+    "key": "api-key-provided-by-mandrill-something-like-klomFRs7MWASlosCa2q6Y",
+    "from" : {
+      "name": "DemocracyOS",
+      "email": "info@guanyemterrassa.net"
+    }
+  },
+  "socialshare" : {
+    "siteName" : "GuanyemTerrassa",
+    "siteDescription" : "DemocracyOS voting system",
+    "image" : "http://www.guanyemterrassa.net/guanyemterrassa/sites/default/files/LOGO_WEB_GuanyemTrs_1B-Alfa_0.png",
+    "domain" : "guanyemterrassa.net",
+    "twitter" : {
+      "username" : "@guanyemtrs"
+    }
+  },
+  "locale" : "en",
+  "logo": "/lib/boot/images/logo.png",
+  "favicon" : " http://www.guanyemterrassa.net/guanyemterrassa/sites/default/files/favicon.ico",
+  "organization name" : "Guanyem Terrassa",
+  "organization url" : "https://guanyemterrassa.net",
+  "learn more url": "http://guanyemterrassa.net",
+  "staff": [e.nares.siurana@gmail.com,arnaumonty@gmail.com],
+  "google analytics tracking id" : "",
+  "rss enabled" : false,
+  "comments per page": 15,
+  "spam limit": 5,
+  "faq": false,
+  "tos": false,
+  "pp": false,
+  "glossary": false,
+  "notifications": {
+    "host": "localhost",
+    "port": 9001,
+    "token": null
+  }
+}
