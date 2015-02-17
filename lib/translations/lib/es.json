@@ -4,8 +4,8 @@
   "common.cancel": "Cancelar",
   "common.back": "Volver",
 
-  "DemocracyOS": "DemocracyOS",
-  "header.logo": "DemocracyOS",
+  "DemocracyOS": "Terrassa en Comú",
+  "header.logo": "Terrassa en Comú",
   "header.signin": "Ingresar",
   "Login to": "Ingresar a",
   "header.signup": "Registrarse",
@@ -14,8 +14,10 @@
   "header.settings": "Configuración",
   "header.feedback": "Sugerencias",
   "header.my_profile": "Mi perfil", 
-  "profile.about": "Acerca de mi",
-  "profile.tags": "Etiquetas", 
+  
+   "profile.about": "Acerca de mi",
+  "profile.tags": "Etiquetas subscritas",
+  
 
   "Incorrect password": "Contraseña incorrecta",
   "Incorrect username": "Nombre de usuario incorrecto",
@@ -216,7 +218,7 @@
   "That argument is not yours!": "¡Ese argumento no es tuyo!",
   "There are no laws to display": "No hay leyes para mostrar",
 
-  "proposal-article.article.alert.text": "Ésta es una versión demo de DemocracyOS.",
+  "proposal-article.article.alert.text": "Versión de DemocracyOS adaptada a Terrassa en Comú.",
   "proposal-article.article.alert.learn-more": "Más información",
 
   "Remove argument" : "Borrar argumento",
