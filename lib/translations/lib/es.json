@@ -13,6 +13,9 @@
   "header.logout": "Cerrar sesión",
   "header.settings": "Configuración",
   "header.feedback": "Sugerencias",
+  "header.my_profile": "Mi perfil", 
+  "profile.about": "Acerca de mi",
+  "profile.tags": "Etiquetas", 
 
   "Incorrect password": "Contraseña incorrecta",
   "Incorrect username": "Nombre de usuario incorrecto",
